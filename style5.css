@@ -1,0 +1,19 @@
+:root{
+    --x:blue;
+    --y:red;
+    --c:green;
+    
+
+ }
+ h1{
+    
+     color: var(--c);
+ }
+ #para1{
+color: var(--x);
+ }
+ #para2{
+   
+
+    color:var(--y);
+ }

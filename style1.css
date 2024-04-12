@@ -1,0 +1,16 @@
+@media(max-width:768px)
+{
+    #first{
+        visibility: hidden;
+        /*display:none;*/
+    }
+    
+}
+@media(min-width:768px)
+{
+    #second{
+        visibility: hidden;
+        /*display:none;*/
+    }
+    
+}
